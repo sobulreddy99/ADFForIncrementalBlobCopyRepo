@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFForIncrementalBlobCopy"
 		},
+		"AzureBlobStorage_connectionString": {
+			"value": ""
+		},
 		"AzureSqlDatabaseLinkedService_connectionString": {
 			"value": ""
 		},
