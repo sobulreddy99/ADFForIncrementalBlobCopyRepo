@@ -1,0 +1,9 @@
+{
+	"name": "ADFForIncrementalBlobCopy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b5202bf-7d35-4f21-88f9-c0b0b114415c",
+		"tenantId": "38de7d14-b74d-4144-a4e9-fa253bbbca49"
+	}
+}
